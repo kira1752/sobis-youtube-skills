@@ -10,7 +10,7 @@ Reader-sim = membaca/mendengar naskah SEBAGAI pendengar pertama kali dan melapor
 
 ## Persona baku (sesuaikan per episode, nyatakan selalu di laporan)
 
-- **Mode PENJELAS:** penonton Shorts awam; tidak punya latar domain topik (fisika, mekanik, biologi — sesuai topik); menonton sekali jalan di ponsel, tidak bisa memutar ulang; perhatian penuh hanya dijamin ±5 detik pertama.
+- **Mode PENJELAS:** penonton awam sesuai platform proyekmu (persona adalah parameter proyek: platform, perangkat, dan konteks menonton dinyatakan eksplisit di laporan); tidak punya latar domain topik (fisika, mekanik, biologi — sesuai topik); menonton sekali jalan, tidak bisa memutar ulang; perhatian penuh hanya dijamin pada detik-detik pembuka (kalibrasi penulis pada format pendek: ±5 detik pertama — untuk format lain, nyatakan jendela perhatian personamu sendiri).
 - **Mode CERITA:** penonton yang baru pertama kali melihat tokoh ini; tidak tahu episode sebelumnya; tahu konvensi genre seperlunya (komedi, horor, dst. sesuai episode).
 
 ## Prosedur

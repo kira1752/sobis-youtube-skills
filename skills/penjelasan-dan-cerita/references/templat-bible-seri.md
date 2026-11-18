@@ -40,4 +40,4 @@ Perbarui bible SETIAP episode selesai (bukan saat direncanakan): fakta hanya mas
 - **Bible mencatat yang sudah terjadi, bukan rencana.** Rencana tinggal di lembar janji episode berjalan.
 - **Konflik bible vs naskah baru = naskah yang berhenti.** Bila beat baru membutuhkan fakta yang bertentangan dengan bible, penyelesaiannya adalah keputusan tertulis (retcon disengaja, dicatat di Larangan kontinuitas dengan alasannya) — bukan pelanggaran diam-diam.
 - **Setup lintas episode hidup di dua tempat yang sinkron:** lembar janji episode asal (sebagai pengecualian seri) dan tabel bible ini (sebagai utang seri). Saat terbayar, tutup di keduanya.
-- Jaga tetap ringan: bila satu bagian bible melewati ±1 halaman, ia mulai menjadi registri proyek buku — potong kembali ke fakta yang benar-benar mengikat episode 60 detik berikutnya.
+- Jaga tetap ringan: bila satu bagian bible melewati ±1 halaman, ia mulai menjadi registri proyek buku — potong kembali ke fakta yang benar-benar mengikat episode berikutnya.

@@ -1,6 +1,6 @@
 # Contoh Terkerjakan — Mode PENJELAS: tulis-ulang Episode 002 "Pintu Pesawat"
 
-Uji bukti 1 dari `PENILAIAN-REPO-CERITA-2026-11-18.md` §3, direproduksi sebagai contoh acuan skill ini. Metode yang dipakai berurutan: (a) reverse outline naskah asli (story-skills), (b) simulasi pendengar pertama (reader-sim creative-writing-skills), (c) diagnosis developmental + failure modes (creative-writing-skills), (d) tulis ulang memakai registri janji (story-skills) + pengetikan outcome. Semua klaim draf baru dipetakan ke LEMBAR-FAKTA Episode 002 (F1–F7) — tidak ada fakta baru.
+Uji bukti dari penilaian internal penulis atas repo cerita (2026-11-18), direproduksi sebagai contoh acuan skill ini. Metode yang dipakai berurutan: (a) reverse outline naskah asli (story-skills), (b) simulasi pendengar pertama (reader-sim creative-writing-skills), (c) diagnosis developmental + failure modes (creative-writing-skills), (d) tulis ulang memakai registri janji (story-skills) + pengetikan outcome. Semua klaim draf baru dipetakan ke LEMBAR-FAKTA Episode 002 (F1–F7) — tidak ada fakta baru.
 
 ## Kenapa naskah asli gagal (ringkasan diagnosis)
 

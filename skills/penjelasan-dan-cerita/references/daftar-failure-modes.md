@@ -1,6 +1,6 @@
 # Daftar Periksa Failure Modes — tahap penulisan
 
-Empat mode gagal penulis yang diperiksa SEBELUM naskah naik (bukan di gerbang). Diadaptasi dari `resources/failure-modes.md` di writing-principles, creative-writing-skills (haowjy, Apache-2.0), dipindahkan dari prosa fiksi ke narasi penjelas & cerita 60 detik. Prinsip payungnya: penawarnya tidak pernah "lakukan kebalikannya" — ini soal kalibrasi; yang diperiksa adalah kapan pola itu melayani penonton dan kapan ia hanya insting kelengkapan model yang bocor.
+Empat mode gagal penulis yang diperiksa SEBELUM naskah naik (bukan di gerbang). Diadaptasi dari `resources/failure-modes.md` di writing-principles, creative-writing-skills (haowjy, Apache-2.0), dipindahkan dari prosa fiksi ke narasi penjelas & cerita (durasi = parameter proyek; contoh preseden di berkas ini berasal dari episode ±60 detik penulis). Prinsip payungnya: penawarnya tidak pernah "lakukan kebalikannya" — ini soal kalibrasi; yang diperiksa adalah kapan pola itu melayani penonton dan kapan ia hanya insting kelengkapan model yang bocor.
 
 ## 1. Info-dumping
 

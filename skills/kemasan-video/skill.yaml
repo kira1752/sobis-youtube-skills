@@ -1,5 +1,5 @@
 name: "kemasan_video"
 title: "Kemasan Video"
-description: "Package code-rendered video titles, captions and diagrams with one locked Hallmark theme, Impeccable lint QC at the gates, MOTION.md motion specs and a measured look-match loop, plus the gated HyperFrames A/B render recipe proven on this VM. Use for YouTube division packaging work."
+description: "Package code-rendered video titles, captions and diagrams with one locked Hallmark theme, Impeccable lint QC at the pipeline gates defined in PIPELINE.md, MOTION.md motion specs and a measured look-match loop, plus a gated HyperFrames A/B render recipe. Performance numbers in the skill are calibration examples from the authors' machine, not requirements. Use for video packaging work inside the pipeline in this repo."
 category: "Work and knowledge"
 include_in_prompt: false

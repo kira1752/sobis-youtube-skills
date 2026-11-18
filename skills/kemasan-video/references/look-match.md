@@ -17,7 +17,7 @@ Kontrak antar pemilik tinggal di konstanta yang diekspor bersama, misalnya tabel
 
 ## QA frame pada render final
 
-Jalankan ketiga pemeriksaan ini pada setiap MP4 final sebelum diserahkan. Perintah terverifikasi di VM kita pada 2026-11-18.
+Jalankan ketiga pemeriksaan ini pada setiap MP4 final sebelum diserahkan. Perintah terverifikasi penulis pada 2026-11-18 (di mesin penulis).
 
 Periksa frame hitam:
 
@@ -58,14 +58,14 @@ Dua aturan gerak yang menjaga QA tetap bersih:
 
 ## Gotcha disk Remotion
 
-Setiap bundle Remotion menyalin folder `public/` proyek (sekitar 1,3 GB pada proyek sumber) ke folder temp dan tidak menghapusnya. Proyek sumber menghabiskan 60 sampai 110 GB dan satu render mati karena disk penuh.
+Setiap bundle Remotion menyalin folder `public/` proyek ke folder temp dan tidak menghapusnya. Angka berikut adalah contoh kasus dari proyek sumber metode ini — pelajaran perilakunya yang berlaku umum, bukan patokan mesinmu: folder `public/` proyek itu sekitar 1,3 GB, pemakaian temp-nya teramati menghabiskan 60 sampai 110 GB, dan satu render mati karena disk penuh.
 
-- Atur `TEMP` dan `TMPDIR` ke folder di disk workspace yang besar sebelum render Remotion apa pun.
+- Atur `TEMP` dan `TMPDIR` ke folder di disk besarmu sebelum render Remotion apa pun.
 - Hapus folder `remotion-webpack-bundle-*` dan `puppeteer_dev_chrome_profile-*` di folder temp itu ketika proyek selesai dan tidak ada render berjalan.
 - Parameter pasca berskala piksel harus diskalakan terhadap tinggi keluaran. Stills setengah skala dan final skala penuh tidak berbagi angka mentah yang sama.
 
 ## Yang tidak diadopsi dari proyek sumber
 
-- Larangan caption. Aturan rumah kita mewajibkan caption pendek, jadi larangan itu dibuang.
-- Ekspor 1440x2560. Standar kita 1080x1920, jadi angka ekspor itu dibuang.
+- Larangan caption. Proyek sumber melarang caption; aturan caption adalah parameter proyekmu (proyek penulis mewajibkan caption pendek) — tetapkan di parameter proyek, jangan warisi larangan itu.
+- Ekspor 1440x2560. Standar ekspor adalah standar berkas parameter proyekmu (lihat `PIPELINE.md` di akar repo ini); jangan mewarisi angka proyek sumber maupun angka penulis.
 - Tumpukan dan karakter proyek sumber. Hanya metode, QA, dan gotcha di berkas ini yang diambil.

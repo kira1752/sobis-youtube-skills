@@ -1,6 +1,8 @@
-# Mode CERITA — metode terkompresi untuk fiksi mikro ±60 detik
+# Mode CERITA — metode terkompresi untuk fiksi per unit cerita
 
-Metode di halaman ini adalah adaptasi terkompresi dari: premise-workshop + scene-craft (try-fail, scene-sequel) di story-skills (danjdewhurst, MIT), dan story-architecture (busur + uji kausasi therefore/but + setup/payoff dilacak) di creative-writing-skills (haowjy, Apache-2.0). Bentuk aslinya melayani novel dan cerita pendek; di sini semuanya dipadatkan ke satu unit 60 detik (±130–150 kata dialog/narasi, termasuk ruang jeda aksi).
+Metode di halaman ini adalah adaptasi terkompresi dari: premise-workshop + scene-craft (try-fail, scene-sequel) di story-skills (danjdewhurst, MIT), dan story-architecture (busur + uji kausasi therefore/but + setup/payoff dilacak) di creative-writing-skills (haowjy, Apache-2.0). Bentuk aslinya melayani novel dan cerita pendek; di sini semuanya dipadatkan ke satu unit cerita yang ukurannya mengikuti durasi target proyek.
+
+**Menghitung ukuran unit (fungsi durasi, bukan angka mati):** jumlah kata dialog/narasi per unit ≈ durasi target (detik) × tempo baca proyekmu ÷ 60, dikurangi ruang jeda aksi. Kalibrasi penulis: tempo narasi ±155–175 kata/menit; untuk unit 60 detik itu berarti ±130–150 kata termasuk ruang jeda aksi. Unit 30 detik ≈ separuhnya; unit 3 menit ≈ tiga kalinya — struktur lima komponen di bawah tidak berubah, hanya jumlah beat dan kedalaman try-fail yang diskalakan.
 
 ## 1. Premise workshop terkompresi
 
@@ -9,7 +11,7 @@ Kerjakan dalam satu duduk, catat hasilnya di kepala naskah:
 1. **Spark.** Tangkap perciknya apa adanya — citra, tokoh, situasi, atau rasa — tanpa memperbaikinya dulu. Catat apa yang menarik darinya; itu yang harus selamat dari semua perubahan.
 2. **What-if.** Hasilkan 8–12 what-if pendek dari spark, dari sudut yang berbeda-beda: balik keadaannya, naikkan biayanya, pindah waktu/tempat, beri masalahnya ke tokoh yang paling salah. Tandai mana yang sudah menyiratkan konflik.
 3. **Logline.** Untuk what-if terpilih, susun satu kalimat: **protagonis + want + obstacle + stakes**. Uji cepat: konfliknya tersirat tanpa dijelaskan? taruhannya terbaca? bisa diucapkan dalam satu napas dan pendengar langsung ingin tahu hasilnya? Gagal satu = revisi logline, bukan lanjut menulis.
-4. **Taruhan (stakes).** Namai apa yang hilang bila tokoh gagal. Untuk 60 detik, taruhan kecil yang konkret dan personal mengalahkan taruhan dunia: gengsi, benda kesayangan, janji yang sudah terucap, muka di depan tokoh lain. Minimal satu level harus personal dan bisa DILIHAT penonton, bukan abstrak ("kehilangan kepercayaan diri" tidak terlihat; "harus mengaku kalah di depan rivalnya" terlihat).
+4. **Taruhan (stakes).** Namai apa yang hilang bila tokoh gagal. Untuk unit pendek, taruhan kecil yang konkret dan personal mengalahkan taruhan dunia: gengsi, benda kesayangan, janji yang sudah terucap, muka di depan tokoh lain. Unit yang lebih panjang boleh menaikkan skala dan melapis taruhan, tetapi minimal satu level harus personal dan bisa DILIHAT penonton, bukan abstrak ("kehilangan kepercayaan diri" tidak terlihat; "harus mengaku kalah di depan rivalnya" terlihat).
 
 ## 2. Busur terkompresi + uji kausasi
 

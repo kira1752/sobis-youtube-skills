@@ -1,6 +1,6 @@
 # Contoh Terkerjakan — Lapisan Anti-Slop atas naskah asli Episode 002
 
-Uji bukti dari `PENILAIAN-REPO-TULIS-2026-11-18.md` §4, direproduksi ringkas sebagai preseden terhitung skill ini. Sumber: NASKAH.md Episode 002 asli (152 kata, 9 beat; fakta F1–F7 tidak diubah suntingan mana pun). Kesimpulan besarnya: **rasa AI pada naskah kita bersifat ritmis-struktural, bukan leksikal** — kosakatanya bersih; yang mekanis adalah denyutnya.
+Uji bukti dari penilaian internal penulis atas repo tulis (2026-11-18), direproduksi ringkas sebagai preseden terhitung skill ini. Sumber: NASKAH.md Episode 002 asli (152 kata, 9 beat; fakta F1–F7 tidak diubah suntingan mana pun). Kesimpulan besarnya: **rasa AI pada naskah kita bersifat ritmis-struktural, bukan leksikal** — kosakatanya bersih; yang mekanis adalah denyutnya.
 
 ## Temuan atas naskah asli (dengan contoh kalimat)
 
@@ -17,7 +17,7 @@ Uji bukti dari `PENILAIAN-REPO-TULIS-2026-11-18.md` §4, direproduksi ringkas se
 
 ## Skor stop-slop naskah asli
 
-Directness 7 · Rhythm 4 (denyut tumbuk hampir seragam antar-beat) · Trust 6 · Authenticity 4 (dash + false agency + rekayasa quotable) · Density 8 = **29/50 < 35 → revisi** menurut ambang stop-slop — konvergen dengan vonis Indra dari arah yang sepenuhnya berbeda. (Catatan laporan: penilai lain bisa bergeser ±3 titik; kesimpulan ambangnya kokoh karena dua dimensi terendah berpijak pada temuan terhitung.)
+Directness 7 · Rhythm 4 (denyut tumbuk hampir seragam antar-beat) · Trust 6 · Authenticity 4 (dash + false agency + rekayasa quotable) · Density 8 = **29/50 < 35 → revisi** menurut ambang stop-slop — konvergen dengan vonis pemilik channel dari arah yang sepenuhnya berbeda. (Catatan laporan: penilai lain bisa bergeser ±3 titik; kesimpulan ambangnya kokoh karena dua dimensi terendah berpijak pada temuan terhitung.)
 
 ## Contoh suntingan (fakta & maksud dipertahankan)
 
@@ -35,15 +35,16 @@ Beat 1 dan 9 sengaja TIDAK ditulis ulang di uji ini: keduanya perangkat genre ya
 
 ## Bukti mekanis
 
-Pemeriksa deterministik oh-story dijalankan atas teks narasi apa adanya:
+Pemeriksa deterministik repo sumber (oh-story), dijalankan penulis atas teks narasi apa adanya saat penilaian awal (2026-11-18), mencatat:
 
 ```
-node scripts/check-ai-patterns.js --check --fail-on=blocking ep002-narration.txt
-→ 8 temuan [blocking] em-dash (baris 1, 2×2, 3, 6, 7×2, 8), exit code 1
+8 temuan [blocking] em-dash (baris 1, 2×2, 3, 6, 7×2, 8), exit code 1
 ```
+
+Skrip pemeriksa repo sumber itu TIDAK disertakan di repo ini. Pemeriksaan yang sama di repo ini dijalankan dengan resep `python3` inline di [pemeriksa-mekanis.md](pemeriksa-mekanis.md): simpan teks narasi ke `narasi.txt`, jalankan resepnya, dan nilai hitungan em-dash per beat + total terhadap ambang di berkas itu — hasil hitungnya setara untuk cek em-dash dan kepadatan fragmen.
 
 Dua arah buktinya: temuan dash bukan selera penilai (terkonfirmasi mekanis oleh perkakas repo ketiga), dan yang diimpor dari oh-story adalah mekanisme pemeriksanya — bukan daftar katanya (lihat pemeriksa-mekanis.md).
 
 ## Batas contoh ini
 
-Suntingan di atas memperbaiki rasa mekanis, bukan seluruh vonis Indra atas Episode 002: kebingungannya juga soal urutan informasi (lapis logika-cerita) dan visual — di luar jangkauan daftar periksa permukaan. Lapisan anti-slop adalah syarat perlu, bukan syarat cukup; gerbang tetap diputuskan lembar janji + reader-sim.
+Suntingan di atas memperbaiki rasa mekanis, bukan seluruh vonis pemilik channel atas Episode 002: kebingungannya juga soal urutan informasi (lapis logika-cerita) dan visual — di luar jangkauan daftar periksa permukaan. Lapisan anti-slop adalah syarat perlu, bukan syarat cukup; gerbang tetap diputuskan lembar janji + reader-sim.

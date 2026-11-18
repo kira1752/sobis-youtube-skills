@@ -1,13 +1,13 @@
-# Daftar Pola Anti-Slop Bergrada — untuk naskah suara 60 detik
+# Daftar Pola Anti-Slop Bergrada — untuk naskah suara (durasi = parameter proyek)
 
-Lapisan permukaan dari skill ini. Diadaptasi dari `humanizer` (blader, MIT — daftar pola berbasis Wikipedia "Signs of AI writing", WikiProject AI Cleanup) dan aturan unik `stop-slop` (hardikpandya, MIT), diekstrak untuk naskah VO oleh penilaian divisi `PENILAIAN-REPO-TULIS-2026-11-18.md` §2. Temuan preseden atas naskah kita sendiri ada di [contoh-anti-slop-ep2.md](contoh-anti-slop-ep2.md).
+Lapisan permukaan dari skill ini. Diadaptasi dari `humanizer` (blader, MIT — daftar pola berbasis Wikipedia "Signs of AI writing", WikiProject AI Cleanup) dan aturan unik `stop-slop` (hardikpandya, MIT), diekstrak untuk naskah VO oleh penilaian internal penulis atas repo tulis (2026-11-18). Temuan preseden atas naskah penulis sendiri ada di [contoh-anti-slop-ep2.md](contoh-anti-slop-ep2.md).
 
 ## Prinsip payung
 
 Model menulis "pilihan yang paling mungkin", sehingga hasilnya rata dan generik; tulisan manusia memilih untuk satu pendengar dan satu subjek. Dua konsekuensinya:
 
 - **Setiap kalimat yang dipertahankan wajib menambah sesuatu yang belum dimiliki pendengar.** Kalimat yang hanya memberi bobot (bukan isi) adalah tell — uji tiap kalimat terhadap beat sebelumnya.
-- **Grada menentukan tindakan.** Tell kuat: bertindak pada SATU temuan. Tell lemah-sendiri: jangan bertindak pada satu temuan; bertindak pada kepadatannya. Menghapus semua pola tanpa grada akan merusak naskah lisan (adverbia ritme lisan ≠ adverbia prosa; fragmen adalah alat genre Shorts).
+- **Grada menentukan tindakan.** Tell kuat: bertindak pada SATU temuan. Tell lemah-sendiri: jangan bertindak pada satu temuan; bertindak pada kepadatannya. Menghapus semua pola tanpa grada akan merusak naskah lisan (adverbia ritme lisan ≠ adverbia prosa; fragmen adalah alat genre video pendek).
 
 ## Tell KUAT — bertindak pada satu temuan
 
@@ -25,8 +25,8 @@ Model menulis "pilihan yang paling mungkin", sehingga hasilnya rata dan generik;
 | Pola | Catatan kalibrasi divisi |
 |---|---|
 | **Em dash sebagai konektor serbaguna** (§8) | Di naskah suara, dash berfungsi ganda sebagai tanda jeda delivery. Aturan divisi: dash hanya sebagai jeda delivery yang DISENGAJA dan jarang; yang dinilai adalah kepadatannya (preseden Ep 002: 8 dash / 152 kata, 6 dari 9 beat — blocking, lihat pemeriksa-mekanis.md). Kalimat final sebaiknya tidak bergantung pada dash sebagai satu-satunya sambungan. |
-| **Fragmen dramatis / one-line closers** (§2) | Alat genre Shorts yang sah (model positif Scale Shock memakainya). Jadi tell bila ADA DI SETIAP beat dengan denyut yang sama — ritme berbasis aturan, bukan ritme dari isi. Kepadatan dihitung pemeriksa mekanis. |
-| **Quotable engineering** (stop-slop: cut quotables) | Naskah Shorts memang direkayasa quotable per beat. Bedakan: pukulan yang MEMBAWA fakta (pertahankan) vs pukulan yang hanya bergaya (tulis ulang). |
+| **Fragmen dramatis / one-line closers** (§2) | Alat genre video pendek yang sah (dipakai juga kanal acuan penulis). Jadi tell bila ADA DI SETIAP beat dengan denyut yang sama — ritme berbasis aturan, bukan ritme dari isi. Kepadatan dihitung pemeriksa mekanis. |
+| **Quotable engineering** (stop-slop: cut quotables) | Naskah video pendek memang sering direkayasa quotable per beat. Bedakan: pukulan yang MEMBAWA fakta (pertahankan) vs pukulan yang hanya bergaya (tulis ulang). |
 | **Peredam bertumpuk** (§9) | "sure", "even", "just", "actually" menumpuk sebagai peredam. Satu peredam kadang ritme lisan; tiga dalam dua beat = pola. Preseden: "The locks help, sure — but they're backup." |
 | **Menghindari is/are/has** (§18) | "works like / serves as / acts as" menggantikan "is". "The door is a plug" lebih kuat dan lebih pendek. |
 | **Pasif tanpa pelaku** (§11) | "the cabin is pumped full of air" — pelaku hilang, energi turun. Namai pelaku bila ia diketahui dari lembar fakta. |

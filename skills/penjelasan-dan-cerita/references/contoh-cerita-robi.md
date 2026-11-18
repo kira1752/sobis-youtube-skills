@@ -1,13 +1,13 @@
 # Contoh Terkerjakan — Mode CERITA: "ROBI DAN KOTAK YANG TIDAK MAU PINDAH"
 
-Uji bukti 2 dari `PENILAIAN-REPO-CERITA-2026-11-18.md` §4, direproduksi sebagai contoh acuan Mode CERITA. Dibangun dalam satu duduk memakai: premise-workshop (story-skills), busur terkompresi + uji kausasi therefore/but (story-architecture creative-writing-skills), try-fail + scene-sequel (scene-craft story-skills), registri setup (story-skills). Pemeran: maskot channel yang sudah ada (robot teal berkacamata lab oranye).
+Uji bukti dari penilaian internal penulis atas repo cerita (2026-11-18), direproduksi sebagai contoh acuan Mode CERITA. Dibangun dalam satu duduk memakai: premise-workshop (story-skills), busur terkompresi + uji kausasi therefore/but (story-architecture creative-writing-skills), try-fail + scene-sequel (scene-craft story-skills), registri setup (story-skills). Pemeran: maskot channel penulis (robot teal berkacamata lab oranye) — contoh tokoh dari proyek penulis; ganti dengan tokohmu, metodenya yang berlaku.
 
 ## Premis (hasil alur premise-workshop)
 
 - **Spark:** robot lab superkuat vs benda kecil yang remeh.
 - **What-if:** bagaimana jika satu-satunya benda yang tidak bisa dipindahkan robot terkuat di lab justru kotak kayu kecil — karena yang menahannya bukan berat, melainkan magnet, dan robotnya sendiri terbuat dari logam?
 - **Logline:** Robi, robot lab yang bisa mengangkat apa pun, harus memindahkan kotak kayu kecil berisi magnet industri — dan musuhnya adalah tubuh logamnya sendiri.
-- **Taruhan:** kecil dan komik secara sengaja (taruhan emosional: gengsi Robi), sesuai skala 60 detik.
+- **Taruhan:** kecil dan komik secara sengaja (taruhan emosional: gengsi Robi), sesuai skala unit contoh ini (60 detik — lihat rumus ukuran unit di mode-cerita.md untuk durasi lain).
 
 ## Registri setup
 
@@ -19,7 +19,7 @@ Uji bukti 2 dari `PENILAIAN-REPO-CERITA-2026-11-18.md` §4, direproduksi sebagai
 | Janji: Robi memindahkan kotak | Beat 2 | Beat 7 |
 | *Pengecualian seri (tercatat):* kotak kedua berlabel sama tiba di frame akhir | Beat 8 | Episode berikutnya (seri) |
 
-## Beat tertulis (±130 kata dialog/narasi ≈ 60 detik dengan jeda aksi)
+## Beat tertulis (±130 kata dialog/narasi ≈ 60 detik dengan jeda aksi — contoh ini memang satu unit 60 detik; unit durasi lain diskalakan dari tempo baca, lihat mode-cerita.md)
 
 > **Beat 1 — HOOK + plant sepatu (0–5 dtk).** Robi mengangkat kulkas lab dengan SATU tangan, santai. Setiap langkahnya: KLAK — sepatu magnet menempel lantai baja. *Narasi/teks:* "Robi bisa mengangkat apa pun di lab ini." *(outcome: yes — sengaja, satu-satunya yes bersih, untuk membangun kontras)*
 >
@@ -43,4 +43,4 @@ Beat 1→2: ia bisa mengangkat apa pun, THEREFORE tugas remeh ini diberikan pada
 
 ## Penilaian jujur atas contoh ini (dari laporan penilaian)
 
-Yang dibuktikan: kerangka repo menghasilkan struktur mikro-fiksi yang kausal dalam satu kali duduk, tanpa satu pun setup yatim selain pengecualian seri yang disengaja dan tercatat. Yang TIDAK dibuktikan: mutu eksekusi visual/lawak per detik (wilayah produksi dan uji mata Indra, bukan wilayah repo teks), dan apakah format fiksi maskot ini cocok dengan selera penonton channel (keputusan arah Indra). Risiko yang dicatat: struktur try-fail ×2 + twist label adalah pola umum Shorts fiksi; pembeda harus datang dari karakter dan dunia lab maskot — di sinilah bible seri ringan berperan — bukan dari polanya.
+Yang dibuktikan: kerangka repo menghasilkan struktur mikro-fiksi yang kausal dalam satu kali duduk, tanpa satu pun setup yatim selain pengecualian seri yang disengaja dan tercatat. Yang TIDAK dibuktikan: mutu eksekusi visual/lawak per detik (wilayah produksi dan uji mata pemilik channel, bukan wilayah repo teks), dan apakah format fiksi maskot ini cocok dengan selera penonton channel (keputusan arah pemilik channel). Risiko yang dicatat: struktur try-fail ×2 + twist label adalah pola umum video pendek fiksi; pembeda harus datang dari karakter dan dunia lab maskot — di sinilah bible seri ringan berperan — bukan dari polanya.
