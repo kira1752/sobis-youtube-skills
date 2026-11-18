@@ -17,6 +17,10 @@ Syarat lolos gerbang: reader-sim oleh agen yang **berbeda** dari penulis + lemba
 
 Mengemas judul, caption, dan diagram hasil render kode dengan satu tema Hallmark yang terkunci, lint QC Impeccable di gerbang, spek gerak MOTION.md, dan loop look-match terukur terhadap acuan. Tema teruji yang disertakan: Blueprint (`references/themes/blueprint.md`).
 
+### `skills/video-suara-bawaan` — video & suara generatif bawaan agen
+
+Mengemas kemampuan generatif bawaan Muse sendiri: video generatif dengan dialog native (terbukti natural berbahasa Indonesia) dan TTS bawaan untuk narasi. Lengkap dengan aturan pencegahan AI slop sebelum generate (larang teks di dalam frame, satu penutur, klip pendek) dan audit ketat frame-per-frame yang wajib lolos sebelum hasil generate ditunjukkan ke pemilik channel. Lahir dari pelajaran mahal: cek kemampuan bawaan agenmu dulu sebelum berminggu-minggu menguji engine eksternal.
+
 ## Cara pakai
 
 Salin folder skill yang diinginkan ke folder skill kustom agenmu (di Muse: `~/workspace/custom-skills/`), lalu minta agen membaca `SKILL.md`-nya saat mengerjakan tugas terkait. Setiap skill berdiri sendiri; berkas di `references/` adalah bahan wajibnya, jangan dipisah.

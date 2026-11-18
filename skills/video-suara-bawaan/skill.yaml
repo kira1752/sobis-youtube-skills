@@ -1,0 +1,5 @@
+name: "video_suara_bawaan"
+title: "Video & Suara Bawaan Muse"
+description: "Use Muse's own built-in generative media for the YouTube division — native-dialogue video generation and built-in TTS narration (proven natural in Indonesian) — with pre-generation AI-slop prevention rules (no in-frame text, single speaker, short clips) and a mandatory frame-by-frame audit gate before any generated result is shown to the owner. Use before researching external video or voice engines."
+category: "Work and knowledge"
+include_in_prompt: false
