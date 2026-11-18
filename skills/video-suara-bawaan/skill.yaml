@@ -1,5 +1,5 @@
 name: "video_suara_bawaan"
-title: "Video & Suara Bawaan Muse"
-description: "Use Muse's own built-in generative media for the YouTube division — native-dialogue video generation and built-in TTS narration (proven natural in Indonesian) — with pre-generation AI-slop prevention rules (no in-frame text, single speaker, short clips) and a mandatory frame-by-frame audit gate before any generated result is shown to the owner. Use before researching external video or voice engines."
+title: "Generate Video Bawaan Muse — Skill Utama Divisi YouTube"
+description: "The YouTube division's PRIMARY video-generation skill: generate video directly with Muse's own built-in generative model — native-dialogue clips of about 10 seconds each (a fixed tool limit, not a video-length limit), chained across clips via snapshot_id and stitched into full videos at the packaging stage, with an explicit tested vertical-portrait prompt phrase for Shorts. Includes pre-generation AI-slop prevention (no in-frame text, single speaker) and a mandatory frame-by-frame audit gate (orientation check, per-frame text test, dialogue-content limits stated honestly) before any result is shown to the owner. Built-in TTS narration is a supporting path only, subject to the pipeline's voice-licensing rule before broadcast. External video/voice engines are fallback, opened only when the built-in path provably fails a gate."
 category: "Work and knowledge"
 include_in_prompt: false
